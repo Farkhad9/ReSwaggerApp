@@ -169,4 +169,9 @@ C:\Users\User\Desktop\ReApiSwagger\ReApiSwagger\bin\Debug\net10.0\Swashbuckle.As
 C:\Users\User\Desktop\ReApiSwagger\ReApiSwagger\obj\Debug\net10.0\ReApiSwagger.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\User\Desktop\ReApiSwagger\ReApiSwagger\bin\Debug\net10.0\AutoMapper.dll
 C:\Users\User\Desktop\ReApiSwagger\ReApiSwagger\bin\Debug\net10.0\ReApiSwagger.staticwebassets.runtime.json
+C:\Users\User\Desktop\ReApiSwagger\ReApiSwagger\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Desktop\ReApiSwagger\ReApiSwagger\obj\Debug\net10.0\ReApiSwagger.sourcelink.json
+C:\Users\User\Desktop\ReApiSwagger\ReApiSwagger\bin\Debug\net10.0\FluentValidation.dll
+C:\Users\User\Desktop\ReApiSwagger\ReApiSwagger\bin\Debug\net10.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\User\Desktop\ReApiSwagger\ReApiSwagger\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\User\Desktop\ReApiSwagger\ReApiSwagger\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

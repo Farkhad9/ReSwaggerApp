@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("7bb996d2-0722-4312-83d1-60f414ab6132")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReApiSwagger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef0111dfdf0e847f533a7d7fdd173f3175ff3f62")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReApiSwagger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReApiSwagger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

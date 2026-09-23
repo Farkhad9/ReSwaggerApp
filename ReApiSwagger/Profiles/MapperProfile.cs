@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Http;
 using ReApiSwagger.Dtos.Categories;
 using ReApiSwagger.Dtos.Products;
+using ReApiSwagger.Dtos.User;
 using ReApiSwagger.Models;
 
 namespace ReApiSwagger.Profiles
@@ -23,6 +24,25 @@ namespace ReApiSwagger.Profiles
             CreateMap<Product, ProductReturnDto>();
             CreateMap<Category, CategoryInProductReturnDto>();
             CreateMap<CategoryInProductUpdateDto, Category>();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            CreateMap<UserRegistrDto, AppUser>()
+                .ForMember(dest => dest.UserName, opt => opt.MapFrom(src => src.NickName));
+            CreateMap<UserLoginDto, AppUser>()
+                 .ForMember(dest => dest.UserName, opt => opt.MapFrom(src => src.NickName));
+
         }
 
         private static string GetUrl(IHttpContextAccessor httpContextAccessor)

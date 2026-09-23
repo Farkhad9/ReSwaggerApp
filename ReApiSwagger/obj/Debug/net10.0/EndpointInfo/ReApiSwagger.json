@@ -280,6 +280,18 @@
           }
         }
       }
+    },
+    "/api/User": {
+      "get": {
+        "tags": [
+          "User"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": {
@@ -353,6 +365,9 @@
     },
     {
       "name": "Product"
+    },
+    {
+      "name": "User"
     }
   ]
 }

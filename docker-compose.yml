@@ -1,0 +1,23 @@
+version: '3.4'
+
+services:
+  reapiswagger:
+    image: ${DOCKER_REGISTRY-}reapiswagger
+    build:
+      context: .
+      dockerfile: ReApiSwagger/Dockerfile
+    ports:
+      - "5000:8080"
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=db;Database=ReApiSwaggerDb;User Id=sa;Password=Password123;TrustServerCertificate=True;
+    depends_on:
+      - db
+
+  db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: mssql_db
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: "Password123"
+    ports:
+      - "1433:1433"

@@ -176,5 +176,15 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReApiSwagger.Controllers.UserController",
+    "Method": "CreateRoles",
+    "RelativePath": "api/User",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   }
 ]
