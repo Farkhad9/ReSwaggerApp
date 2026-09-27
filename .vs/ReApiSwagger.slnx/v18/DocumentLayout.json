@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\ReApiSwagger\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\user\\desktop\\reapiswagger\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D5C72C65-977D-B869-389C-AC03DEC30B5D}|ReApiSwagger\\ReApiSwagger.csproj|c:\\users\\user\\desktop\\reapiswagger\\reapiswagger\\data\\migrations\\20260923193650_mig_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5C72C65-977D-B869-389C-AC03DEC30B5D}|ReApiSwagger\\ReApiSwagger.csproj|solutionrelative:reapiswagger\\data\\migrations\\20260923193650_mig_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\user\\desktop\\reapiswagger\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
-      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+      "AbsoluteMoniker": "D:0:0:{D5C72C65-977D-B869-389C-AC03DEC30B5D}|ReApiSwagger\\ReApiSwagger.csproj|c:\\users\\user\\desktop\\reapiswagger\\reapiswagger\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5C72C65-977D-B869-389C-AC03DEC30B5D}|ReApiSwagger\\ReApiSwagger.csproj|solutionrelative:reapiswagger\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C72C65-977D-B869-389C-AC03DEC30B5D}|ReApiSwagger\\ReApiSwagger.csproj|c:\\users\\user\\desktop\\reapiswagger\\reapiswagger\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5C72C65-977D-B869-389C-AC03DEC30B5D}|ReApiSwagger\\ReApiSwagger.csproj|solutionrelative:reapiswagger\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C72C65-977D-B869-389C-AC03DEC30B5D}|ReApiSwagger\\ReApiSwagger.csproj|c:\\users\\user\\desktop\\reapiswagger\\reapiswagger\\attributes\\filetypeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C72C65-977D-B869-389C-AC03DEC30B5D}|ReApiSwagger\\ReApiSwagger.csproj|solutionrelative:reapiswagger\\attributes\\filetypeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D5C72C65-977D-B869-389C-AC03DEC30B5D}|ReApiSwagger\\ReApiSwagger.csproj|c:\\users\\user\\desktop\\reapiswagger\\reapiswagger\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,33 +98,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ReApiSwagger\\ReApiSwagger\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ReApiSwagger\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ReApiSwagger\\ReApiSwagger\\appsettings.Development.json",
+              "RelativeToolTip": "ReApiSwagger\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-23T21:50:46.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ReApiSwagger\\ReApiSwagger\\appsettings.json",
+              "RelativeDocumentMoniker": "ReApiSwagger\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ReApiSwagger\\ReApiSwagger\\appsettings.json",
+              "RelativeToolTip": "ReApiSwagger\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-23T21:50:42.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileTypeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ReApiSwagger\\ReApiSwagger\\Attributes\\FileTypeAttribute.cs",
+              "RelativeDocumentMoniker": "ReApiSwagger\\Attributes\\FileTypeAttribute.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ReApiSwagger\\ReApiSwagger\\Attributes\\FileTypeAttribute.cs",
+              "RelativeToolTip": "ReApiSwagger\\Attributes\\FileTypeAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T21:18:24.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "20260923193650_mig_3.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\ReApiSwagger\\ReApiSwagger\\Data\\Migrations\\20260923193650_mig_3.cs",
               "RelativeDocumentMoniker": "ReApiSwagger\\Data\\Migrations\\20260923193650_mig_3.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\ReApiSwagger\\ReApiSwagger\\Data\\Migrations\\20260923193650_mig_3.cs",
               "RelativeToolTip": "ReApiSwagger\\Data\\Migrations\\20260923193650_mig_3.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBcAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-23T19:36:53.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\ReApiSwagger\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
               "ToolTip": "C:\\Users\\User\\Desktop\\ReApiSwagger\\docker-compose.yml",
               "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2026-09-23T19:11:30.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\ReApiSwagger\\ReApiSwagger\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "ReApiSwagger\\Controllers\\UserController.cs",
@@ -120,12 +171,11 @@
               "RelativeToolTip": "ReApiSwagger\\Controllers\\UserController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T13:48:45.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-16T13:48:45.068Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "UserLoginDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\ReApiSwagger\\ReApiSwagger\\Dtos\\User\\UserLoginDto.cs",
               "RelativeDocumentMoniker": "ReApiSwagger\\Dtos\\User\\UserLoginDto.cs",
@@ -137,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ProductUpdateDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\ReApiSwagger\\ReApiSwagger\\Dtos\\Products\\ProductUpdateDto.cs",
               "RelativeDocumentMoniker": "ReApiSwagger\\Dtos\\Products\\ProductUpdateDto.cs",
@@ -149,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ProductReturnDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\ReApiSwagger\\ReApiSwagger\\Dtos\\Products\\ProductReturnDto.cs",
               "RelativeDocumentMoniker": "ReApiSwagger\\Dtos\\Products\\ProductReturnDto.cs",
@@ -161,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "ProductCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\ReApiSwagger\\ReApiSwagger\\Dtos\\Products\\ProductCreateDto.cs",
               "RelativeDocumentMoniker": "ReApiSwagger\\Dtos\\Products\\ProductCreateDto.cs",
@@ -173,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "CategoryUpdateDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\ReApiSwagger\\ReApiSwagger\\Dtos\\Categories\\CategoryUpdateDto.cs",
               "RelativeDocumentMoniker": "ReApiSwagger\\Dtos\\Categories\\CategoryUpdateDto.cs",
@@ -185,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "CategoryReturnDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\ReApiSwagger\\ReApiSwagger\\Dtos\\Categories\\CategoryReturnDto.cs",
               "RelativeDocumentMoniker": "ReApiSwagger\\Dtos\\Categories\\CategoryReturnDto.cs",
@@ -197,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "CategoryCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\ReApiSwagger\\ReApiSwagger\\Dtos\\Categories\\CategoryCreateDto.cs",
               "RelativeDocumentMoniker": "ReApiSwagger\\Dtos\\Categories\\CategoryCreateDto.cs",
@@ -209,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\ReApiSwagger\\ReApiSwagger\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "ReApiSwagger\\Controllers\\CategoryController.cs",
@@ -221,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\ReApiSwagger\\ReApiSwagger\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "ReApiSwagger\\Controllers\\ProductController.cs",
@@ -233,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\ReApiSwagger\\ReApiSwagger\\Models\\Category.cs",
               "RelativeDocumentMoniker": "ReApiSwagger\\Models\\Category.cs",
